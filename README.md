@@ -1,10 +1,10 @@
-# IP Tracer
+***IP Tracer***
 
 Simple IP tracer tool written in Python.
 
-## Usage
+***Usage***
 
 ```bash
 python tracer.py
 
-Çıkış için "exit" yazın program kapansın.
+Çıkış için *"exit"* yazın program kapansın.
