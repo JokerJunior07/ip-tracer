@@ -2,7 +2,7 @@ import requests
 import json
 
 banner = """
-IP Tracer Coded by Joker Jr ~ @JokerJunior07
+IP Tracker Coded by --- Joker Jr ~ @JokerJunior07 ---
 """
 
 print(banner)
